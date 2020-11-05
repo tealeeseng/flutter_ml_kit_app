@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "716024409558",
+    "firebase_url": "https://fir-01-c8a58.firebaseio.com",
+    "project_id": "fir-01-c8a58",
+    "storage_bucket": "fir-01-c8a58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716024409558:android:cde67b6d07f33e0d788877",
+        "android_client_info": {
+          "package_name": "com.tealeeseng.fluttermlapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716024409558-u924bn0gu3pdsmnf8s2a3rgamqtcjc39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlwpT7t9ZnnbJkraaqt1TgtR24gKfAozE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716024409558-u924bn0gu3pdsmnf8s2a3rgamqtcjc39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
