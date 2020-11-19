@@ -1,6 +1,6 @@
 # Sample Flutter ML kit app
 
-Flutter sample code for Computer Vision with ML Kit - Flutter In Focus, https://www.youtube.com/watch?v=ymyYUCrJnxU
+Flutter sample code for youtube clip, Computer Vision with ML Kit - Flutter In Focus, https://www.youtube.com/watch?v=ymyYUCrJnxU
 
 ## Getting Started
 
